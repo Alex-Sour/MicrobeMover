@@ -32,11 +32,11 @@ microbe.style.gridTemplateColumns = "auto auto auto auto auto";
 microbe.style.height = "110px";
 microbe.style.width = "110px";
 
-microbeContainer.style.height = "120px";
-microbeContainer.style.width = "150px";
+microbeContainer.style.height = "170px";
+microbeContainer.style.width = "200px";
 microbeContainer.style.outline = "2px #000000 solid";
 microbeContainer.style.borderRadius = "8px";
-microbeContainer.style.backgroundColor = "#888888";
+microbeContainer.style.backgroundColor = "#1a1a1a";
 microbe.style.top = "50%";
 microbe.style.left = "50%";
 microbe.style.transform = "translate(-50%, -50%)";
